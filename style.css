@@ -38,3 +38,13 @@ section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
+/* dream ==================================================================== */
+.dream {
+  font-size: 50px;
+  font-weight: 400;
+}
+.dream-big {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
